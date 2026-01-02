@@ -1,4 +1,5 @@
 📊 YouTube Trending Analytics – Real-Time Data Engineering Pipeline
+
 [![Status](https://img.shields.io/badge/status-reviewed-brightgreen.svg)]() [![Stack](https://img.shields.io/badge/tech-Spark%20|%20Kafka%20|%20Airflow%20|%20Streamlit-blue.svg)]() [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
 
 ## Project Overview
@@ -133,12 +134,9 @@ The Streamlit app visualizes **Gold-layer analytics**:
 * Channel performance metrics
 * Hourly growth trends
 
-!##[Trending Leaderboard]
-(screenshorts/streamlit_trending.png)
-!##[Channel Performance]
-(screenshorts/streamlit_channel_performance.png)
-!##[Hourly Growth]
-(screenshorts/streamlit_Hourly_Growth.png)
+![Trending Leaderboard](screenshorts/streamlit_trending.png)
+![Channel Performance](screenshorts/streamlit_channel_performance.png)
+![Hourly Growth](screenshorts/streamlit_Hourly_Growth.png)
 
 ---
 
