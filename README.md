@@ -121,7 +121,10 @@ The pipeline uses **three Airflow DAGs**:
 
 The master DAG ensures **Silver completes before Gold**.
 
+## Airflow DAGs
 ![Airflow DAGs](screenshorts/airflow_dags.png)
+
+## Airflow DAG Graph
 ![Airflow DAG Graph](screenshorts/airflow_dag_graph.png)
 
 ---
@@ -134,8 +137,13 @@ The Streamlit app visualizes **Gold-layer analytics**:
 * Channel performance metrics
 * Hourly growth trends
 
+## Trending Leaderboard
 ![Trending Leaderboard](screenshorts/streamlit_trending.png)
+
+## Channel Performance 
 ![Channel Performance](screenshorts/streamlit_channel_performance.png)
+
+## Hourly Growth
 ![Hourly Growth](screenshorts/streamlit_Hourly_Growth.png)
 
 ---
