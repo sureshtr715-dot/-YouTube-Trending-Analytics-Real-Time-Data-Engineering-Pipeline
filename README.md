@@ -134,7 +134,7 @@ The Streamlit app visualizes **Gold-layer analytics**:
 
 ![Trending Leaderboard](screenshorts/streamlit_trending.png)
 ![Channel Performance](screenshorts/streamlit_channel_performance.png)
-![Hourly Growth](screenshorts/streamlit_hourly_growth.png)
+![Hourly Growth](screenshorts/streamlit_Hourly_Growth.png)
 
 ---
 
