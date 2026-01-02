@@ -248,6 +248,16 @@ Open:
 http://localhost:8501
 ```
 
+## 🚫 Data & Logs (Not Tracked in Git)
+```
+The following are **generated at runtime** and excluded via `.gitignore`:
+
+* `delta-lake/`
+* `logs/`
+* `checkpoints/`
+* Virtual environments
+* Secrets & API keys
+```
 
 ## 6 Key Highlights
 ```
